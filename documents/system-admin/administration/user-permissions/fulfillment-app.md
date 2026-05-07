@@ -17,7 +17,9 @@ Below is a list of all the actions available in the Fulfillment App, along with 
 | 7    | Order actions Chip > View Order details | -             | Routes the user to the detailed view of an individual order, where further actions can be taken or details can be reviewed. |
 | 8    | View item QOH (Open Orders)             | -             | Displays the Quantity on Hand (QOH) for items in the order, helping users assess available stock for fulfillment.           |
 
-<figure><img src="../../.gitbook/assets/open-orders.png" alt=""><figcaption></figcaption></figure>
+<img width="1894" height="854" alt="edited-photo" src="https://github.com/user-attachments/assets/30d6d1c2-c6f8-4ff7-80b9-5d8e4141029d" />
+
+
 
 ## In Progress tab
 
@@ -64,7 +66,8 @@ Below is a list of all the actions available in the Fulfillment App, along with 
 
 ## EXIM tab
 
-<img width="1920" height="1008" alt="Screenshot 2026-05-01 155347" src="https://github.com/user-attachments/assets/e22f7c8d-f4e2-4f04-87ac-c4dcc699d81b" />
+<figure><img src="../../.gitbook/assets/exim.png" alt=""><figcaption></figcaption></figure>
+
 
 | S.No | Action                | Permission | Description                                                                                                                                       |
 | ---- | --------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -127,6 +130,4 @@ Manage All Fulfillment Operations
 | 5    | Generate Tracking Code modal > Edit carrier or method | ORDER\_SHIPMENT\_METHOD\_UPDATE | Allows users to change the carrier or shipment method while generating a tracking code for orders that require manual label handling. |
 
 <figure><img src="../../.gitbook/assets/order-details.png" alt=""><figcaption></figcaption></figure>
-
-<img width="1920" height="1008" alt="Screenshot 2026-05-01 155347" src="https://github.com/user-attachments/assets/e22f7c8d-f4e2-4f04-87ac-c4dcc699d81b" />
 
